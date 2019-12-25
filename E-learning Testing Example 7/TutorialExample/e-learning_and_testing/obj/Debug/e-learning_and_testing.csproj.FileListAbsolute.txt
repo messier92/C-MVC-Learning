@@ -1,0 +1,21 @@
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\e-learning_and_testing\bin\Debug\e-learning_and_testing.exe.config
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\e-learning_and_testing\bin\Debug\e-learning_and_testing.exe
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\e-learning_and_testing\bin\Debug\e-learning_and_testing.pdb
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\e-learning_and_testing\obj\Debug\e-learning_and_testing.csprojAssemblyReference.cache
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\e-learning_and_testing\obj\Debug\e_learning_and_testing.Properties.Resources.resources
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\e-learning_and_testing\obj\Debug\e-learning_and_testing.csproj.GenerateResource.cache
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\e-learning_and_testing\obj\Debug\e-learning_and_testing.csproj.CoreCompileInputs.cache
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\e-learning_and_testing\obj\Debug\e-learning_and_testing.exe
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\e-learning_and_testing\obj\Debug\e-learning_and_testing.pdb
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\e-learning_and_testing\obj\Debug\e_learning_and_testing.login.resources
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\e-learning_and_testing\obj\Debug\e_learning_and_testing.MC_Item_Delivery.resources
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\TutorialExample\e-learning_and_testing\bin\Debug\e-learning_and_testing.exe.config
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\TutorialExample\e-learning_and_testing\bin\Debug\e-learning_and_testing.exe
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\TutorialExample\e-learning_and_testing\bin\Debug\e-learning_and_testing.pdb
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\TutorialExample\e-learning_and_testing\obj\Debug\e-learning_and_testing.csprojAssemblyReference.cache
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\TutorialExample\e-learning_and_testing\obj\Debug\e_learning_and_testing.login.resources
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\TutorialExample\e-learning_and_testing\obj\Debug\e_learning_and_testing.MC_Item_Delivery.resources
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\TutorialExample\e-learning_and_testing\obj\Debug\e_learning_and_testing.Properties.Resources.resources
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\TutorialExample\e-learning_and_testing\obj\Debug\e-learning_and_testing.csproj.GenerateResource.cache
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\TutorialExample\e-learning_and_testing\obj\Debug\e-learning_and_testing.exe
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\TutorialExample\e-learning_and_testing\obj\Debug\e-learning_and_testing.pdb

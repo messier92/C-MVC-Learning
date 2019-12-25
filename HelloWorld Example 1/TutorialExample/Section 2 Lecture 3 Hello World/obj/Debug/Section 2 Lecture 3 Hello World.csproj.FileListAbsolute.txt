@@ -1,0 +1,29 @@
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 3 Hello World\bin\Debug\Section 2 Lecture 3 Hello World.exe.config
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 3 Hello World\bin\Debug\Section 2 Lecture 3 Hello World.exe
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 3 Hello World\bin\Debug\Section 2 Lecture 3 Hello World.pdb
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 3 Hello World\obj\Debug\Section 2 Lecture 3 Hello World.csprojAssemblyReference.cache
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 3 Hello World\obj\Debug\Section_2_Lecture_3_Hello_World.Form1.resources
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 3 Hello World\obj\Debug\Section_2_Lecture_3_Hello_World.Properties.Resources.resources
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 3 Hello World\obj\Debug\Section 2 Lecture 3 Hello World.csproj.GenerateResource.cache
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 3 Hello World\obj\Debug\Section 2 Lecture 3 Hello World.csproj.CoreCompileInputs.cache
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 3 Hello World\obj\Debug\Section 2 Lecture 3 Hello World.exe
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 3 Hello World\obj\Debug\Section 2 Lecture 3 Hello World.pdb
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\HelloWorld Example 1\Section 2 Lecture 3 Hello World\bin\Debug\Section 2 Lecture 3 Hello World.exe.config
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\HelloWorld Example 1\Section 2 Lecture 3 Hello World\bin\Debug\Section 2 Lecture 3 Hello World.exe
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\HelloWorld Example 1\Section 2 Lecture 3 Hello World\bin\Debug\Section 2 Lecture 3 Hello World.pdb
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\HelloWorld Example 1\Section 2 Lecture 3 Hello World\obj\Debug\Section 2 Lecture 3 Hello World.csprojAssemblyReference.cache
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\HelloWorld Example 1\Section 2 Lecture 3 Hello World\obj\Debug\Section_2_Lecture_3_Hello_World.Form1.resources
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\HelloWorld Example 1\Section 2 Lecture 3 Hello World\obj\Debug\Section_2_Lecture_3_Hello_World.Properties.Resources.resources
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\HelloWorld Example 1\Section 2 Lecture 3 Hello World\obj\Debug\Section 2 Lecture 3 Hello World.csproj.GenerateResource.cache
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\HelloWorld Example 1\Section 2 Lecture 3 Hello World\obj\Debug\Section 2 Lecture 3 Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\HelloWorld Example 1\Section 2 Lecture 3 Hello World\obj\Debug\Section 2 Lecture 3 Hello World.exe
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\HelloWorld Example 1\Section 2 Lecture 3 Hello World\obj\Debug\Section 2 Lecture 3 Hello World.pdb
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\HelloWorld Example 1\TutorialExample\Section 2 Lecture 3 Hello World\bin\Debug\Section 2 Lecture 3 Hello World.exe.config
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\HelloWorld Example 1\TutorialExample\Section 2 Lecture 3 Hello World\bin\Debug\Section 2 Lecture 3 Hello World.exe
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\HelloWorld Example 1\TutorialExample\Section 2 Lecture 3 Hello World\bin\Debug\Section 2 Lecture 3 Hello World.pdb
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\HelloWorld Example 1\TutorialExample\Section 2 Lecture 3 Hello World\obj\Debug\Section 2 Lecture 3 Hello World.csprojAssemblyReference.cache
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\HelloWorld Example 1\TutorialExample\Section 2 Lecture 3 Hello World\obj\Debug\Section_2_Lecture_3_Hello_World.Form1.resources
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\HelloWorld Example 1\TutorialExample\Section 2 Lecture 3 Hello World\obj\Debug\Section_2_Lecture_3_Hello_World.Properties.Resources.resources
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\HelloWorld Example 1\TutorialExample\Section 2 Lecture 3 Hello World\obj\Debug\Section 2 Lecture 3 Hello World.csproj.GenerateResource.cache
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\HelloWorld Example 1\TutorialExample\Section 2 Lecture 3 Hello World\obj\Debug\Section 2 Lecture 3 Hello World.exe
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\HelloWorld Example 1\TutorialExample\Section 2 Lecture 3 Hello World\obj\Debug\Section 2 Lecture 3 Hello World.pdb

@@ -1,0 +1,10 @@
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\section 2 lecture 10 more common controls\bin\Debug\section 2 lecture 10 more common controls.exe.config
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\section 2 lecture 10 more common controls\bin\Debug\section 2 lecture 10 more common controls.exe
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\section 2 lecture 10 more common controls\bin\Debug\section 2 lecture 10 more common controls.pdb
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\section 2 lecture 10 more common controls\obj\Debug\section 2 lecture 10 more common controls.csprojAssemblyReference.cache
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\section 2 lecture 10 more common controls\obj\Debug\section_2_lecture_10_more_common_controls.Form1.resources
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\section 2 lecture 10 more common controls\obj\Debug\section_2_lecture_10_more_common_controls.Properties.Resources.resources
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\section 2 lecture 10 more common controls\obj\Debug\section 2 lecture 10 more common controls.csproj.GenerateResource.cache
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\section 2 lecture 10 more common controls\obj\Debug\section 2 lecture 10 more common controls.csproj.CoreCompileInputs.cache
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\section 2 lecture 10 more common controls\obj\Debug\section 2 lecture 10 more common controls.exe
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\section 2 lecture 10 more common controls\obj\Debug\section 2 lecture 10 more common controls.pdb

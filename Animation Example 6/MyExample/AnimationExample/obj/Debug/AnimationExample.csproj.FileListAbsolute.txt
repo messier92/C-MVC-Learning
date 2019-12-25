@@ -1,0 +1,9 @@
+C:\Users\Eugene Goh\source\repos\AnimationExample\bin\Debug\AnimationExample.exe.config
+C:\Users\Eugene Goh\source\repos\AnimationExample\bin\Debug\AnimationExample.exe
+C:\Users\Eugene Goh\source\repos\AnimationExample\bin\Debug\AnimationExample.pdb
+C:\Users\Eugene Goh\source\repos\AnimationExample\obj\Debug\AnimationExample.csprojAssemblyReference.cache
+C:\Users\Eugene Goh\source\repos\AnimationExample\obj\Debug\AnimationExample.Form1.resources
+C:\Users\Eugene Goh\source\repos\AnimationExample\obj\Debug\AnimationExample.Properties.Resources.resources
+C:\Users\Eugene Goh\source\repos\AnimationExample\obj\Debug\AnimationExample.csproj.GenerateResource.cache
+C:\Users\Eugene Goh\source\repos\AnimationExample\obj\Debug\AnimationExample.exe
+C:\Users\Eugene Goh\source\repos\AnimationExample\obj\Debug\AnimationExample.pdb

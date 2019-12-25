@@ -1,0 +1,9 @@
+C:\Users\Eugene Goh\source\repos\MultiSelectWiz\bin\Debug\MultiSelectWiz.exe.config
+C:\Users\Eugene Goh\source\repos\MultiSelectWiz\bin\Debug\MultiSelectWiz.exe
+C:\Users\Eugene Goh\source\repos\MultiSelectWiz\bin\Debug\MultiSelectWiz.pdb
+C:\Users\Eugene Goh\source\repos\MultiSelectWiz\obj\Debug\MultiSelectWiz.csprojAssemblyReference.cache
+C:\Users\Eugene Goh\source\repos\MultiSelectWiz\obj\Debug\MultiSelectWiz.Form1.resources
+C:\Users\Eugene Goh\source\repos\MultiSelectWiz\obj\Debug\MultiSelectWiz.Properties.Resources.resources
+C:\Users\Eugene Goh\source\repos\MultiSelectWiz\obj\Debug\MultiSelectWiz.csproj.GenerateResource.cache
+C:\Users\Eugene Goh\source\repos\MultiSelectWiz\obj\Debug\MultiSelectWiz.exe
+C:\Users\Eugene Goh\source\repos\MultiSelectWiz\obj\Debug\MultiSelectWiz.pdb

@@ -1,0 +1,2 @@
+1. Open Visual Studio 2019
+2. Select WPF App (.NET Framework), NOT WIN PRO FORMS

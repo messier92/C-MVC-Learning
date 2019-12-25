@@ -1,0 +1,20 @@
+C:\Users\Eugene Goh\source\repos\ELearningTest\bin\Debug\ELearningTest.exe.config
+C:\Users\Eugene Goh\source\repos\ELearningTest\bin\Debug\ELearningTest.exe
+C:\Users\Eugene Goh\source\repos\ELearningTest\bin\Debug\ELearningTest.pdb
+C:\Users\Eugene Goh\source\repos\ELearningTest\obj\Debug\ELearningTest.csprojAssemblyReference.cache
+C:\Users\Eugene Goh\source\repos\ELearningTest\obj\Debug\ELearningTest.Form1.resources
+C:\Users\Eugene Goh\source\repos\ELearningTest\obj\Debug\ELearningTest.Form2.resources
+C:\Users\Eugene Goh\source\repos\ELearningTest\obj\Debug\ELearningTest.Properties.Resources.resources
+C:\Users\Eugene Goh\source\repos\ELearningTest\obj\Debug\ELearningTest.csproj.GenerateResource.cache
+C:\Users\Eugene Goh\source\repos\ELearningTest\obj\Debug\ELearningTest.exe
+C:\Users\Eugene Goh\source\repos\ELearningTest\obj\Debug\ELearningTest.pdb
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\MyExample\ELearningTest\bin\Debug\ELearningTest.exe.config
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\MyExample\ELearningTest\bin\Debug\ELearningTest.exe
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\MyExample\ELearningTest\bin\Debug\ELearningTest.pdb
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\MyExample\ELearningTest\obj\Debug\ELearningTest.csprojAssemblyReference.cache
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\MyExample\ELearningTest\obj\Debug\ELearningTest.Form1.resources
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\MyExample\ELearningTest\obj\Debug\ELearningTest.Form2.resources
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\MyExample\ELearningTest\obj\Debug\ELearningTest.Properties.Resources.resources
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\MyExample\ELearningTest\obj\Debug\ELearningTest.csproj.GenerateResource.cache
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\MyExample\ELearningTest\obj\Debug\ELearningTest.exe
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\E-learning Testing Example 7\MyExample\ELearningTest\obj\Debug\ELearningTest.pdb

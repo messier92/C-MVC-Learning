@@ -1,0 +1,9 @@
+C:\Users\Eugene Goh\source\repos\CalculatorApp_Tut2\bin\Debug\CalculatorApp_Tut2.exe.config
+C:\Users\Eugene Goh\source\repos\CalculatorApp_Tut2\bin\Debug\CalculatorApp_Tut2.exe
+C:\Users\Eugene Goh\source\repos\CalculatorApp_Tut2\bin\Debug\CalculatorApp_Tut2.pdb
+C:\Users\Eugene Goh\source\repos\CalculatorApp_Tut2\obj\Debug\CalculatorApp_Tut2.csprojAssemblyReference.cache
+C:\Users\Eugene Goh\source\repos\CalculatorApp_Tut2\obj\Debug\CalculatorApp_Tut2.Form1.resources
+C:\Users\Eugene Goh\source\repos\CalculatorApp_Tut2\obj\Debug\CalculatorApp_Tut2.Properties.Resources.resources
+C:\Users\Eugene Goh\source\repos\CalculatorApp_Tut2\obj\Debug\CalculatorApp_Tut2.csproj.GenerateResource.cache
+C:\Users\Eugene Goh\source\repos\CalculatorApp_Tut2\obj\Debug\CalculatorApp_Tut2.exe
+C:\Users\Eugene Goh\source\repos\CalculatorApp_Tut2\obj\Debug\CalculatorApp_Tut2.pdb

@@ -1,0 +1,14 @@
+C:\Users\Eugene Goh\source\repos\DataBinding_Ex\bin\Debug\DataBinding_Ex.exe.config
+C:\Users\Eugene Goh\source\repos\DataBinding_Ex\bin\Debug\DataBinding_Ex.exe
+C:\Users\Eugene Goh\source\repos\DataBinding_Ex\bin\Debug\DataBinding_Ex.pdb
+C:\Users\Eugene Goh\source\repos\DataBinding_Ex\obj\Debug\DataBinding_Ex.csprojAssemblyReference.cache
+C:\Users\Eugene Goh\source\repos\DataBinding_Ex\obj\Debug\MainWindow.g.cs
+C:\Users\Eugene Goh\source\repos\DataBinding_Ex\obj\Debug\App.g.cs
+C:\Users\Eugene Goh\source\repos\DataBinding_Ex\obj\Debug\DataBinding_Ex_MarkupCompile.cache
+C:\Users\Eugene Goh\source\repos\DataBinding_Ex\obj\Debug\DataBinding_Ex_MarkupCompile.lref
+C:\Users\Eugene Goh\source\repos\DataBinding_Ex\obj\Debug\MainWindow.baml
+C:\Users\Eugene Goh\source\repos\DataBinding_Ex\obj\Debug\DataBinding_Ex.g.resources
+C:\Users\Eugene Goh\source\repos\DataBinding_Ex\obj\Debug\DataBinding_Ex.Properties.Resources.resources
+C:\Users\Eugene Goh\source\repos\DataBinding_Ex\obj\Debug\DataBinding_Ex.csproj.GenerateResource.cache
+C:\Users\Eugene Goh\source\repos\DataBinding_Ex\obj\Debug\DataBinding_Ex.exe
+C:\Users\Eugene Goh\source\repos\DataBinding_Ex\obj\Debug\DataBinding_Ex.pdb

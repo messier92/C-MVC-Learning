@@ -1,0 +1,9 @@
+C:\Users\Eugene Goh\source\repos\MoreControls\bin\Debug\MoreControls.exe.config
+C:\Users\Eugene Goh\source\repos\MoreControls\bin\Debug\MoreControls.exe
+C:\Users\Eugene Goh\source\repos\MoreControls\bin\Debug\MoreControls.pdb
+C:\Users\Eugene Goh\source\repos\MoreControls\obj\Debug\MoreControls.csprojAssemblyReference.cache
+C:\Users\Eugene Goh\source\repos\MoreControls\obj\Debug\MoreControls.Form1.resources
+C:\Users\Eugene Goh\source\repos\MoreControls\obj\Debug\MoreControls.Properties.Resources.resources
+C:\Users\Eugene Goh\source\repos\MoreControls\obj\Debug\MoreControls.csproj.GenerateResource.cache
+C:\Users\Eugene Goh\source\repos\MoreControls\obj\Debug\MoreControls.exe
+C:\Users\Eugene Goh\source\repos\MoreControls\obj\Debug\MoreControls.pdb

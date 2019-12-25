@@ -1,0 +1,19 @@
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 4 Calculator\bin\Debug\Section 2 Lecture 4 Calculator.exe.config
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 4 Calculator\bin\Debug\Section 2 Lecture 4 Calculator.exe
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 4 Calculator\bin\Debug\Section 2 Lecture 4 Calculator.pdb
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 4 Calculator\obj\Debug\Section 2 Lecture 4 Calculator.csprojAssemblyReference.cache
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 4 Calculator\obj\Debug\Section_2_Lecture_4_Calculator.Form1.resources
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 4 Calculator\obj\Debug\Section_2_Lecture_4_Calculator.Properties.Resources.resources
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 4 Calculator\obj\Debug\Section 2 Lecture 4 Calculator.csproj.GenerateResource.cache
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 4 Calculator\obj\Debug\Section 2 Lecture 4 Calculator.csproj.CoreCompileInputs.cache
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 4 Calculator\obj\Debug\Section 2 Lecture 4 Calculator.exe
+C:\Users\rickp\Documents\Database-Domain\C# .NET Web-based Applications\Projects\Section 2 Lecture 4 Calculator\obj\Debug\Section 2 Lecture 4 Calculator.pdb
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\Calculator Example 2\Tutorial Example\Section 2 Lecture 4 Calculator\bin\Debug\Section 2 Lecture 4 Calculator.exe.config
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\Calculator Example 2\Tutorial Example\Section 2 Lecture 4 Calculator\bin\Debug\Section 2 Lecture 4 Calculator.exe
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\Calculator Example 2\Tutorial Example\Section 2 Lecture 4 Calculator\bin\Debug\Section 2 Lecture 4 Calculator.pdb
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\Calculator Example 2\Tutorial Example\Section 2 Lecture 4 Calculator\obj\Debug\Section 2 Lecture 4 Calculator.csprojAssemblyReference.cache
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\Calculator Example 2\Tutorial Example\Section 2 Lecture 4 Calculator\obj\Debug\Section_2_Lecture_4_Calculator.Form1.resources
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\Calculator Example 2\Tutorial Example\Section 2 Lecture 4 Calculator\obj\Debug\Section_2_Lecture_4_Calculator.Properties.Resources.resources
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\Calculator Example 2\Tutorial Example\Section 2 Lecture 4 Calculator\obj\Debug\Section 2 Lecture 4 Calculator.csproj.GenerateResource.cache
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\Calculator Example 2\Tutorial Example\Section 2 Lecture 4 Calculator\obj\Debug\Section 2 Lecture 4 Calculator.exe
+C:\Users\Eugene Goh\Desktop\MSVisualStudioCodes\C#\Calculator Example 2\Tutorial Example\Section 2 Lecture 4 Calculator\obj\Debug\Section 2 Lecture 4 Calculator.pdb
